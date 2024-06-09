@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41996643432",
+    "project_id": "woter-c529a",
+    "storage_bucket": "woter-c529a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41996643432:android:0320395204b3eebf7f1fdd",
+        "android_client_info": {
+          "package_name": "com.example.iotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWgcPNcm9y21gtJ64v8PqDKe83x-UbvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
